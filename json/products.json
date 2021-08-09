@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "id": 20,
+            "category": "Table, Living Room",
+            "title": "Convenience Concepts Mission Console Table",
+            "img": "img/table1.jpg",
+            "oldPrice": "200$",
+            "price": "$345"
+            
+        },
+        {
+            "id": 21,
+            "category": "Table, Living Room",
+            "title": "Zahara 1 Drawer Chairside Table",
+            "img": "img/table2.jpg",
+            "oldPrice": "",
+            "price": "$108"
+
+        },
+        {
+            "id": 22,
+            "category": "Chair, Living Room",
+            "title": "Plastec Cedar Wood Plant Caddy",
+            "img": "img/table3.jpg",
+            "oldPrice": "220$",
+            "price": "$325"
+
+        },
+        {
+            "id": 23,
+            "category": "Table, Living Room",
+            "title": "International Concepts Darien Shaker Sofa Table",
+            "img": "img/table4.jpg",
+            "oldPrice": "",
+            "price": "$334"
+
+        }
+    ]
+}
